@@ -240,7 +240,7 @@ Important: Your PR is your submission. Do NOT merge it yourself — the session 
 
 
 ⏰ Submission Deadline
-Submit your Pull Request within 5 working days of the session — by April 29, 2026.
+Submit your Pull Request within 7 working days of the session — by April 29, 2026.
 
 
 📊 Evaluation Criteria
