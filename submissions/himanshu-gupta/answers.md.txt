@@ -1,0 +1,13 @@
+*Name*: Himanshu Gupta
+
+*Date*: 23 April 2026
+
+# Answers
+
+| Question | Answer | Brief Explanation |
+|----------|--------|-------------------|
+| Q1 | B | The Bronze layer ingests and stores raw, unmodified data exactly as received from source systems. |
+| Q2 | C | The Silver layer applies data quality rules such as deduplication, type casting, validation, etc. |
+| Q3 | C | The Gold layer contains curated, business-ready datasets such as aggregates, KPIs, and dimensional views. |
+| Q4 | B | Bronze data is not updated or corrected, hence, issues are handled downstream so the raw source of truth is always preserved. |
+| Q5 | C | Schema flexibility is highest in Bronze, enforced and refined in Silver, and controlled in Gold to protect business use-case. |
